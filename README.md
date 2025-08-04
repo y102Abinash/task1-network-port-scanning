@@ -1,5 +1,4 @@
-# task1-network-port-scanning
-Performed a targeted port scan on a Metasploitable virtual machine using Nmap to identify open services and assess exposure. Task 1 of Elevate Labs Cybersecurity Internship.
+
 
 # Task 1: Network Port Scanning 🔍
 
